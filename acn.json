@@ -1,0 +1,8 @@
+{
+    "comment": "acn-water solution data",
+    "traj_file": ["/home/jtyang/ycong/acn/md/nvt3.gro","/home/jtyang/ycong/acn/md/nvt3.trr"],
+    "shift_file": "/home/jtyang/ycong/acn/get_shift/gfn2.npy",
+    "new_types": ["C1", "HC", "HC", "HC", "C2", "N3", "OW", "HW", "HW"],
+    "prefix": "../2023June20/",
+    "n_per_sub_dat": 128
+}
